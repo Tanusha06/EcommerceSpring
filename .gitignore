@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### adding .env file so that it doesn't gets pushed into version control
+.env
+
